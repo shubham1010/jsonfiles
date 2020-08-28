@@ -2,16 +2,16 @@
 {
   "heading": [
   {
-    "tag":"h2",
-    "name":"About"
+    "tag": "H2",
+    "name": "About"
   },
   {
-    "tag":"P",
+    "tag": "P",
     "data": "The Pune University, Computer Science Department(PUCSD) University of Pune is a teaching department that aims at providing quality education in Computer Science. As with any education institution, students give the department a dynamic character and an active culture towards Computer Science, guided by their faculty. Apart from teaching postgraduate level Computer Science, the faculty is also involved in research, consultancy and development programs. The support structure of the department provides all the required non-academic support to the students and the faculty."
   },
   {
-    "tag":"P",
-    "data":"Details of most of our activities can be found on this site. PUCSD takes care to ensure that the basic scientific principles of Computer Science are presented to the student and actively tries to point out the differences between the Computation as a science and software. Our mission statement elucidates this point further. Another characteristic academic experience at PUCSD for the student is the almost lack of any divide between Computer Science theory and practice. We try our best to maintain a 24x7 availability of our resources."
+    "tag": "P",
+    "data": "Details of most of our activities can be found on this site. PUCSD takes care to ensure that the basic scientific principles of Computer Science are presented to the student and actively tries to point out the differences between the Computation as a science and software. Our mission statement elucidates this point further. Another characteristic academic experience at PUCSD for the student is the almost lack of any divide between Computer Science theory and practice. We try our best to maintain a 24x7 availability of our resources."
   }
   ]
 },
@@ -20,41 +20,73 @@
   "heading": [
 
   {
-    "tag":"h2",
-    "name":"Our Educational Mission"
+    "tag": "H2",
+    "name": "Our Educational Mission"
   },
   {  
-    "tag":"p",
-    "data":"Today Information Technology has become pervasive, while its parent, Computing Science, has become hard to find.  Instead of becoming specialty providers for the IT industry or mass producers of vocationally trained personnel, our Department has chosen to take the road less travelled.  We continue to emphasize the pristine science that lies under the diverse aspects of computing.  This is the single most important feature of the education offered here."
+    "tag": "P",
+    "data": "Today Information Technology has become pervasive, while its parent, Computing Science, has become hard to find.  Instead of becoming specialty providers for the IT industry or mass producers of vocationally trained personnel, our Department has chosen to take the road less travelled.  We continue to emphasize the pristine science that lies under the diverse aspects of computing.  This is the single most important feature of the education offered here."
   },
   {
-    "tag":"P",
-    "data":"There are several ways to present the canonical core of computing science.  Over the years we have developed a distinctive style and method that bridges the theory-practice divide while remaining grounded in the core. Technology changes rapidly, especially in the field of computing, whereas the science, if it changes at all, does so much more gradually.  Those who are clear and thorough about the fundamentals can adapt to rapid changes in technology relatively easily.  We want the education imparted to our students to be the basis of a lifetime of learning."
+    "tag": "P",
+    "data": "There are several ways to present the canonical core of computing science.  Over the years we have developed a distinctive style and method that bridges the theory-practice divide while remaining grounded in the core. Technology changes rapidly, especially in the field of computing, whereas the science, if it changes at all, does so much more gradually.  Those who are clear and thorough about the fundamentals can adapt to rapid changes in technology relatively easily.  We want the education imparted to our students to be the basis of a lifetime of learning."
   },
   {
-    "tag":"P", 
-    "data":"We are committed to the free software and open source movements, as typified by Linux.  We believe that reading and modifying open source code is an extremely good learning tool and an effective initiation into the culture of practical software development."
+    "tag": "P", 
+    "data": "We are committed to the free software and open source movements, as typified by Linux.  We believe that reading and modifying open source code is an extremely good learning tool and an effective initiation into the culture of practical software development."
   },
   {
-    "tag":"P",
-    "data":"We have a large Departmental library accessible to all students.  Jayakar Library, the central University library, has a very large and varied collection of books and journals."
+    "tag": "P",
+    "data": "We have a large Departmental library accessible to all students.  Jayakar Library, the central University library, has a very large and varied collection of books and journals."
   },
   {
-    "tag":"P",
-    "data":"Student-teacher relations are informal and friendly.  A lack of hierarchy is very much a part of our tradition.  Alumni teach many of our courses, motivated by a sense of gratitude for a place that has given them their education, and some of them are prized as our best teachers."
+    "tag": "P",
+    "data": "Student-teacher relations are informal and friendly.  A lack of hierarchy is very much a part of our tradition.  Alumni teach many of our courses, motivated by a sense of gratitude for a place that has given them their education, and some of them are prized as our best teachers."
   }
 ]
 },
 {
   "heading": [
   {
-    "tag":"h2",
-    "name":"History"
+    "tag": "H2",
+    "name": "History"
   },
   {
-    "tag":"P",
+    "tag": "P",
     "data": "Our Department is one of the earliest CS Departments started in Indian Universities. Back in 1980, when computer science was little known and the word IT didn't exist, a one-year programme was started towards the B.Sc.(Applied) degree in Computer Science. The M.C.A. programme was launched in 1983, the M.Tech. degree programme in 1985, and the one year B.Sc.(Applied) programme was upgraded to a two year M.Sc. in Computer Science in 1986."
   }
+  ]
+},
+{
+  "heading": [
+    {
+      "tag":"H2",
+      "name": "HOD's Message"
+    },
+    {
+      "tag": "P",
+      "data": "Today we find that information technology has become overwhelmingly pervasive, while its parent, computing science, has become correspondingly hard to find. While many CS educational institutions have shifted focus from core CS and become specialty providers for the IT industry, or else please permit me to say these mass producers of vocationally trained personnel, a few institutions continue to emphasis the pristine science underlying the diverse aspects of computing. This is the single most important attribute of the education offered here. Our department has remained true to the vision on which it was founded."
+    },
+    {
+      "tag": "P",
+      "data": "There are several ways to present the canonical core of computer science. Over the years we have developed a distinct style and method that bridges the theory - practice divide while remaining grounded in the core. Technology changes rapidly, especially in the field of computing, whereas the science, if it changes at all, does so much more gradually. Our understanding is that persons who are clear and thorough about the fundamentals can adapt to rapid changes in technology relatively easily. We want the education imparted to our students to be the basis of a life time of learning."
+    },
+    {
+      "tag": "P",
+      "data": "Our Department has produced hundreds of professionals and has established a name for itself in the country and abroad. They have consistently excelled in the highly competitive industrial environment, Best Employer/ awards in top-ranking companies. I attribute this success to the winning combination of a dedicated faculty that works hard at imparting quality education, a well-planned syllabus and last but not least, our students."
+    },
+    {
+      "tag": "P",
+      "data": "Learning is a continuous process and does not end with the acquisition of a degree, especially because steady and rapid advances in computing technologies shorten the life of tools and techniques prevalent today. Therefore we do not aim to make our students walking manuals of any language or package. Instead, they are given a strong foundation in computer science and problem-solving techniques, and are made adaptable to changes."
+    },
+    {
+      "tag": "P",
+      "data": "We believe that this approach to teaching-learning, coupled with practical experience gained during Industrial Training in reputed organizations, equips our students to handle the challenges posed by the software industry. I am confident that you will find our students worthy of your organization."
+    },
+    {
+      "tag": "H2",
+      "data": "(Head of Department)"
+    }
   ]
 }
 ]
