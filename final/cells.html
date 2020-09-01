@@ -1,8 +1,8 @@
- <div data-controller="cells-toggle" class="cells">
+ <div class="cells">
     <h2>PUCSD CELLS</h2>
     <ul>
       <li>
-        <a href="#antiraggingcell" data-action="click->cells-toggle#toggleElement"><h2>Anti-Ragging Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
+        <a  id="antiraggingcelllink" onclick="antiCell()"><h2>Anti-Ragging Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
 
         <div id="antiraggingcell">
           
@@ -22,7 +22,7 @@
       </li>
 
       <li>
-        <a href="#alumnicell" data-action="click->cells-toggle#toggleElement"><h2>Alumni Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
+        <a id="alumnicelllink" onclick="alumniCell()"><h2>Alumni Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
 
         <div id="alumnicell">
         <ul>
@@ -71,7 +71,7 @@
       </li>
        
       <li>
-        <a href="#placementcell" data-action="click->cells-toggle#toggleElement"><h2>Placement Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
+        <a id="placementcelllink" onclick="placementCell()"><h2>Placement Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
         
         <div id="placementcell">
 
@@ -126,7 +126,7 @@
       </li>
 
       <li>
-        <a href="#sysadscell" data-action="click->cells-toggle#toggleElement"><h2>System Administrators Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
+        <a id="sysadscelllink" onclick="sysaddsCell()"><h2>System Administrators Cell<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
         
         <div id="sysadscell">
 
@@ -179,7 +179,7 @@
       </li>
 
       <li>
-        <a href="#facilitationgroup" data-action="click->cells-toggle#toggleElement"><h2>Facilitation Group<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
+        <a id="#facilitationgrouplink" onclick="facilitationGroup()"><h2>Facilitation Group<i class="fa fa-chevron-down" aria-hidden="true"></i></h2></a>
         
         <div id="facilitationgroup">
 <ul>
