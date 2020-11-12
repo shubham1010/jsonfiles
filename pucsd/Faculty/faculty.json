@@ -1,0 +1,101 @@
+{
+  "Heading": "Department Faculty",
+  "Staff": {
+    "Teaching": [
+      {
+        "Image": "uploads/img-1.jpg",
+        "Name": {
+          "First": "Sanjay",          
+          "Last": "Dhole",
+          "Middle": "",
+          "Prefix": "Dr"
+
+        },
+        "Post": "Head Of The department",
+        "Qualification": "",
+        "Webpage": ""
+      },
+      {
+        "Image": "uploads/img-3.jpg",
+        "Name": {
+          "First": "Achyut",          
+          "Last": "Roy",
+          "Middle": "K",
+          "Prefix": ""
+
+        },
+        "Post": "Assistant Professor",
+        "Qualification": "",
+        "Webpage": ""
+      },
+      {
+        "Image": "uploads/img-1.jpg",
+        "Name": {
+          "First": "Damodar",          
+          "Last": "Kulkarni",
+          "Middle": "",
+          "Prefix": ""
+
+        },
+        "Post": "Assistant Professor",
+        "Qualification": "(M.C.A, SET)",
+        "Webpage": ""
+      },
+      {
+        "Image": "uploads/img-3.jpg",
+        "Name": {
+          "First": "Nitin",          
+          "Last": "Patil",
+          "Middle": "P",
+          "Prefix": ""
+
+        },
+        "Post": "Assistant Professor",
+        "Qualification": "(M.C.A, SET)",
+        "Webpage": ""
+      },
+      {
+        "Image": "uploads/img-2.jpg",
+        "Name": {
+          "First": "Ritambhra",          
+          "Last": "Korpal",
+          "Middle": "",
+          "Prefix": ""
+
+        },
+        "Post": "Assistant Professor",
+        "Qualification": "(M.C.A, NET)",
+        "Webpage": ""
+      },
+      {
+        "Image": "uploads/img-4.jpg",
+        "Name": {
+          "First": "Pallavi",          
+          "Last": "Mandhare",
+          "Middle": "A",
+          "Prefix": ""
+
+        },
+        "Post": "Assistant Professor",
+        "Qualification": "(M.Sc, SET)",
+        "Webpage": ""
+      },
+      {
+        "Image": "uploads/img-2.jpg",
+        "Name": {
+          "First": "Jyoti",          
+          "Last": " Yadav",
+          "Middle": "A",
+          "Prefix": ""
+
+        },
+        "Post": "Assistant Professor",
+        "Qualification": "(M.C.A, SET)",
+        "Webpage": ""
+      }
+
+    ],
+    "Visiting": [],
+    "NonTeaching": []
+  }
+}

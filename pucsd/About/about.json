@@ -1,0 +1,17 @@
+{
+  "About": {
+    "Heading": "Welcome to PUCSD",
+    "Information": ["The Pune University, Computer Science Department(PUCSD) University of Pune is a teaching department that aims at providing quality education in Computer Science. As with any education institution, students give the department a dynamic character and an active culture towards Computer Science, guided by their faculty. Apart from teaching postgraduate level Computer Science, the faculty is also involved in research, consultancy and development programs. The support structure of the department provides all the required non-academic support to the students and the faculty."],
+    "Image": "../images/about.jpg"
+  },
+
+  "HOD" : {
+    "Heading": "HOD's Message",
+    "Information": [
+      "Today we find that information technology has become overwhelmingly pervasive, while its parent, computing science, has become correspondingly hard to find. While many CS educational institutions have shifted focus from core CS and become specialty providers for the IT industry, or else please permit me to say these mass producers of vocationally trained personnel, a few institutions continue to emphasis the pristine science underlying the diverse aspects of computing. This is the single most important attribute of the education offered here. Our department has remained true to the vision on which it was founded.", 
+      "There are several ways to present the canonical core of computer science. Over the years we have developed a distinct style and method that bridges the theory - practice divide while remaining grounded in the core. Technology changes rapidly, especially in the field of computing, whereas the science, if it changes at all, does so much more gradually. Our understanding is that persons who are clear and thorough about the fundamentals can adapt to rapid changes in technology relatively easily. We want the education imparted to our students to be the basis of a life time of learning.", 
+      "Our Department has produced hundreds of professionals and has established a name for itself in the country and abroad. They have consistently excelled in the highly competitive industrial environment, Best Employer/ awards in top-ranking companies. I attribute this success to the winning combination of a dedicated faculty that works hard at imparting quality education, a well-planned syllabus and last but not least, our students.", 
+      "Learning is a continuous process and does not end with the acquisition of a degree, especially because steady and rapid advances in computing technologies shorten the life of tools and techniques prevalent today. Therefore we do not aim to make our students walking manuals of any language or package. Instead, they are given a strong foundation in computer science and problem-solving techniques, and are made adaptable to changes.", 
+      "We believe that this approach to teaching-learning, coupled with practical experience gained during Industrial Training in reputed organizations, equips our students to handle the challenges posed by the software industry. I am confident that you will find our students worthy of your organization."]
+  }
+}

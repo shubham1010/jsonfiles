@@ -1,0 +1,10 @@
+{
+  "Image": "./uploads/gallery_img-03.jpg",
+  "News": [
+    {
+      "Heading": "Regarding Hostel",
+      "Content": "Information Related Hostel Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore nulla autem nisi vitae consequatur adipisci esse qui non architecto officia.",
+      "ExternalLink": ""
+    }
+  ]
+}

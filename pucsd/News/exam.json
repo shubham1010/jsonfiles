@@ -1,0 +1,10 @@
+{
+  "Image": "./uploads/gallery_img-02.jpg",
+  "News": [
+    {
+      "Heading": "Regarding Exam Forms",
+      "Content": "Information Related exam form Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore nulla autem nisi vitae consequatur adipisci esse qui non architecto officia.",
+      "ExternalLink": ""
+    }
+  ]
+}

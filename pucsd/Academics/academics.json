@@ -1,0 +1,24 @@
+{
+  "Heading": "Academics",
+  "Courses": [
+    {
+      "Course": "Master of Computer Application",
+      "Description": "The MCA degree primarily aims at training for professional practice in the industry. The programme is designed so that the graduate can adapt to any specific need with ease. The duration of the study is six semesters, which is normally completed in three years.",
+      "Image": "../images/mca.jpg",
+      "Years": "3"
+    },
+    {
+      "Course": "Master of Computer Application",
+      "Description": "The MCA degree primarily aims at training for professional practice in the industry. The programme is designed so that the graduate can adapt to any specific need with ease. The duration of the study is six semesters, which is normally completed in three years.",
+      "Image": "../images/mca.jpg",
+      "Years": "3"
+    },
+    {
+      "Course": "Master of Computer Application",
+      "Description": "The MCA degree primarily aims at training for professional practice in the industry. The programme is designed so that the graduate can adapt to any specific need with ease. The duration of the study is six semesters, which is normally completed in three years.",
+      "Image": "../images/mca.jpg",
+      "Years": "3"
+    }
+    
+  ]
+}

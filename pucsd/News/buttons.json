@@ -1,0 +1,20 @@
+{
+  "Heading": "News",
+  "Buttons": [
+    {
+      "Label": "Exams",
+      "Id": "examButton",
+      "Filename": "exam.json"
+    },
+    {
+      "Label": "Hostel",
+      "Id": "hostelButton",
+      "Filename": "hostel.json"
+    },
+    {
+      "Label": "Fee",
+      "Id": "feeButton",
+      "Filename": "fee.json"
+    }    
+  ]
+}

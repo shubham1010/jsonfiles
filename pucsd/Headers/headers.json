@@ -1,0 +1,5 @@
+{
+  "Logo":"../images/logo.png",
+  "CompanyName": "pucsd",
+  "NavBarList": ["home", "about", "cells", "news", "academics", "faculty", "students", "contact"]
+}
