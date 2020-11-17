@@ -1,5 +1,5 @@
 {
-  "Logo":"../images/logo.png",
+  "Logo":"../Images/Header/logo.png",
   "CompanyName": "pucsd",
   "NavBarList": ["home", "about", "cells", "news", "academics", "faculty", "students", "contact"]
 }

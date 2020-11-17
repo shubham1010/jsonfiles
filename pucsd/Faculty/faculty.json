@@ -3,7 +3,7 @@
   "Staff": {
     "Teaching": [
       {
-        "Image": "uploads/img-1.jpg",
+        "Image": "./Images/Faculty/Sanjay_Dhole.jpg",
         "Name": {
           "First": "Sanjay",          
           "Last": "Dhole",
@@ -16,7 +16,7 @@
         "Webpage": ""
       },
       {
-        "Image": "uploads/img-3.jpg",
+        "Image": "./Images/Faculty/Achyut_Roy.jpg",
         "Name": {
           "First": "Achyut",          
           "Last": "Roy",
@@ -29,7 +29,7 @@
         "Webpage": ""
       },
       {
-        "Image": "uploads/img-1.jpg",
+        "Image": "./Images/Faculty/Damodar_Kulkarni.jpg",
         "Name": {
           "First": "Damodar",          
           "Last": "Kulkarni",
@@ -42,7 +42,7 @@
         "Webpage": ""
       },
       {
-        "Image": "uploads/img-3.jpg",
+        "Image": "./Images/Faculty/Nitin_Patil.jpg",
         "Name": {
           "First": "Nitin",          
           "Last": "Patil",
@@ -55,7 +55,7 @@
         "Webpage": ""
       },
       {
-        "Image": "uploads/img-2.jpg",
+        "Image": "./Images/Faculty/Ritambhra_Korpal.jpg",
         "Name": {
           "First": "Ritambhra",          
           "Last": "Korpal",
@@ -68,7 +68,7 @@
         "Webpage": ""
       },
       {
-        "Image": "uploads/img-4.jpg",
+        "Image": "./Images/Faculty/Pallavi_Mandhare.jpg",
         "Name": {
           "First": "Pallavi",          
           "Last": "Mandhare",
@@ -81,7 +81,7 @@
         "Webpage": ""
       },
       {
-        "Image": "uploads/img-2.jpg",
+        "Image": "./Images/Faculty/Jyoti_Yadav.jpg",
         "Name": {
           "First": "Jyoti",          
           "Last": " Yadav",
